@@ -6,4 +6,4 @@ This repository provides an API for DeepSign framework. DeepSign is an end-to-en
 Keras 1.1.2, Tensorflow 0.12.1
 
 ## Contact Info:
-If you have any questions, please email bita@ucsd.edu and/or huc044@ucsd.edu.
+If you have any questions, please email bita@ucsd.edu or huc044@ucsd.edu.
