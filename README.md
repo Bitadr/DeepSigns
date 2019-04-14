@@ -5,4 +5,5 @@ This repository provides an API for DeepSign framework. DeepSign is an end-to-en
 ## Python Packages Required:
 Keras 1.1.2, Tensorflow 0.12.1
 
-**Note**:If you have any questions, please email bita@ucsd.edu and/or huc044@ucsd.edu.
+## Contact Info:
+If you have any questions, please email bita@ucsd.edu and/or huc044@ucsd.edu.
